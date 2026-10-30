@@ -8,6 +8,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -21,6 +22,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -34,6 +36,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -47,6 +50,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -60,6 +64,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -73,6 +78,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -86,6 +92,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -99,6 +106,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -112,6 +120,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -125,6 +134,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -138,6 +148,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -151,6 +162,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -164,6 +176,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -177,6 +190,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 2.463303,
     "ip": 4.681731,
     "include": true
@@ -190,6 +204,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -203,6 +218,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -216,6 +232,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -229,6 +246,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -242,6 +260,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -255,6 +274,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -268,6 +288,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -281,6 +302,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -294,6 +316,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -307,6 +330,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -320,6 +344,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -333,6 +358,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -346,6 +372,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -359,6 +386,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -372,6 +400,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -385,6 +414,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -398,6 +428,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -411,6 +442,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -424,6 +456,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -437,6 +470,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.90307,
     "ip": 3.342315,
     "include": true
@@ -450,6 +484,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.408202,
     "ip": 1.32757,
     "include": true
@@ -463,6 +498,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.408202,
     "ip": 1.32757,
     "include": true
@@ -476,6 +512,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.408202,
     "ip": 1.32757,
     "include": true
@@ -489,6 +526,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 1.058861,
     "ip": 1.313302,
     "include": true
@@ -502,6 +540,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 1.058861,
     "ip": 1.313302,
     "include": true
@@ -515,6 +554,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.300062,
     "ip": 1.375268,
     "include": true
@@ -528,6 +568,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.300062,
     "ip": 1.375268,
     "include": true
@@ -541,6 +582,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.300062,
     "ip": 1.375268,
     "include": true
@@ -554,6 +596,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.300062,
     "ip": 1.375268,
     "include": true
@@ -567,6 +610,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.051727,
     "ip": 0.690879,
     "include": true
@@ -580,6 +624,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.051727,
     "ip": 0.690879,
     "include": true
@@ -593,6 +638,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.051727,
     "ip": 0.690879,
     "include": true
@@ -606,6 +652,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.051727,
     "ip": 0.690879,
     "include": true
@@ -619,6 +666,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.29115,
     "ip": 0.720382,
     "include": true
@@ -632,6 +680,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.29115,
     "ip": 0.720382,
     "include": true
@@ -645,6 +694,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.29115,
     "ip": 0.720382,
     "include": true
@@ -658,6 +708,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.29115,
     "ip": 0.720382,
     "include": true
@@ -671,6 +722,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.29115,
     "ip": 0.720382,
     "include": true
@@ -684,6 +736,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.210707,
     "ip": 1.337321,
     "include": true
@@ -697,6 +750,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.210707,
     "ip": 1.337321,
     "include": true
@@ -710,6 +764,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.210707,
     "ip": 1.337321,
     "include": true
@@ -723,6 +778,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.210707,
     "ip": 1.337321,
     "include": true
@@ -736,6 +792,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.236286,
     "ip": 1.318233,
     "include": true
@@ -749,6 +806,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.236286,
     "ip": 1.318233,
     "include": true
@@ -762,6 +820,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.213387,
     "ip": 2.167568,
     "include": true
@@ -775,6 +834,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.213387,
     "ip": 2.167568,
     "include": true
@@ -788,6 +848,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.213387,
     "ip": 2.167568,
     "include": true
@@ -801,6 +862,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.213387,
     "ip": 2.167568,
     "include": true
@@ -814,6 +876,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.060114,
     "ip": 2.044517,
     "include": true
@@ -827,6 +890,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.060114,
     "ip": 2.044517,
     "include": true
@@ -840,6 +904,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.060114,
     "ip": 2.044517,
     "include": true
@@ -853,6 +918,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.283115,
     "ip": 1.646764,
     "include": true
@@ -866,6 +932,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.283115,
     "ip": 1.646764,
     "include": true
@@ -879,6 +946,7 @@
     "eligible": true,
     "optional": false,
     "reason": "Conjunto da UHE com taxas ONS disponíveis",
+    "rateOrigin": "Herdada da usina",
     "teif": 0.283115,
     "ip": 1.646764,
     "include": true
@@ -892,6 +960,7 @@
     "eligible": true,
     "optional": true,
     "reason": "Participação acionária; inclusão opcional",
+    "rateOrigin": "Herdada da usina",
     "teif": 1.337263,
     "ip": 5.846073,
     "include": true
@@ -905,6 +974,7 @@
     "eligible": true,
     "optional": true,
     "reason": "Participação acionária; inclusão opcional",
+    "rateOrigin": "Herdada da usina",
     "teif": 1.337263,
     "ip": 5.846073,
     "include": true
@@ -918,6 +988,7 @@
     "eligible": true,
     "optional": true,
     "reason": "Participação acionária; inclusão opcional",
+    "rateOrigin": "Herdada da usina",
     "teif": 1.337263,
     "ip": 5.846073,
     "include": true
@@ -931,6 +1002,7 @@
     "eligible": true,
     "optional": true,
     "reason": "Participação acionária; inclusão opcional",
+    "rateOrigin": "Herdada da usina",
     "teif": 1.337263,
     "ip": 5.846073,
     "include": true
@@ -944,6 +1016,7 @@
     "eligible": false,
     "optional": false,
     "reason": "Unidade associada em faixa distinta; fora do conjunto UG01–UG03 usado neste cálculo",
+    "rateOrigin": "Herdada da usina",
     "teif": null,
     "ip": null,
     "include": true
@@ -957,6 +1030,7 @@
     "eligible": false,
     "optional": false,
     "reason": "Sem taxas TEIFa/TEIP compatíveis no recorte carregado",
+    "rateOrigin": "Herdada da usina",
     "teif": null,
     "ip": null,
     "include": true
@@ -970,6 +1044,7 @@
     "eligible": false,
     "optional": false,
     "reason": "Sem taxas TEIFa/TEIP compatíveis no recorte carregado",
+    "rateOrigin": "Herdada da usina",
     "teif": null,
     "ip": null,
     "include": true
@@ -983,6 +1058,7 @@
     "eligible": false,
     "optional": false,
     "reason": "Sem taxas TEIFa/TEIP compatíveis no recorte carregado",
+    "rateOrigin": "Herdada da usina",
     "teif": null,
     "ip": null,
     "include": true
