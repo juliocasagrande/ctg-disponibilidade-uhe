@@ -1,1 +1,15 @@
-{"name":"ctg-disponibilidade-uhe","version":"1.0.0","private":true,"description":"Calculadora estática de disponibilidade das UHEs CTG Brasil","scripts":{"test":"node test-core.cjs && node test-ctg.cjs && node test-config.cjs","build":"node scripts/compile-config.mjs","sync:sheets":"node scripts/sync-sheets.mjs","preview":"python3 -m http.server 8080 --directory dist"},"engines":{"node":">=22"}}
+{
+  "name": "ctg-disponibilidade-uhe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Calculadora estática de disponibilidade das UHEs CTG Brasil",
+  "scripts": {
+    "test": "node test-core.cjs && node test-ctg.cjs && node test-config.cjs && node test-ugs.cjs",
+    "build": "node scripts/compile-config.mjs",
+    "sync:sheets": "node scripts/sync-sheets.mjs",
+    "preview": "python3 -m http.server 8080 --directory dist"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

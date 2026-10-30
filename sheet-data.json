@@ -222,7 +222,10 @@
         "potencia_mw",
         "elegivel",
         "participacao",
-        "motivo"
+        "motivo",
+        "teif_pct",
+        "ip_pct",
+        "incluir_cenario"
       ],
       [
         "JUP-UG01",
@@ -232,7 +235,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG02",
@@ -242,7 +248,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG03",
@@ -252,7 +261,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG04",
@@ -262,7 +274,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG05",
@@ -272,7 +287,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG06",
@@ -282,7 +300,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG07",
@@ -292,7 +313,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG08",
@@ -302,7 +326,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG09",
@@ -312,7 +339,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG10",
@@ -322,7 +352,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG11",
@@ -332,7 +365,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG12",
@@ -342,7 +378,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG13",
@@ -352,7 +391,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUP-UG14",
@@ -362,7 +404,10 @@
         110.8,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG01",
@@ -372,7 +417,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG02",
@@ -382,7 +430,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG03",
@@ -392,7 +443,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG04",
@@ -402,7 +456,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG05",
@@ -412,7 +469,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG06",
@@ -422,7 +482,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG07",
@@ -432,7 +495,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG08",
@@ -442,7 +508,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG09",
@@ -452,7 +521,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG10",
@@ -462,7 +534,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG11",
@@ -472,7 +547,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG12",
@@ -482,7 +560,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG13",
@@ -492,7 +573,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG14",
@@ -502,7 +586,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG15",
@@ -512,7 +599,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG16",
@@ -522,7 +612,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG17",
@@ -532,7 +625,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG18",
@@ -542,7 +638,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG19",
@@ -552,7 +651,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ILS-UG20",
@@ -562,7 +664,10 @@
         172,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "GAR-UG01",
@@ -572,7 +677,10 @@
         63,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "GAR-UG02",
@@ -582,7 +690,10 @@
         63,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "GAR-UG03",
@@ -592,7 +703,10 @@
         63,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "STO-UG01",
@@ -602,7 +716,10 @@
         58,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "STO-UG02",
@@ -612,7 +729,10 @@
         58,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CPV-UG01",
@@ -622,7 +742,10 @@
         154.75,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CPV-UG02",
@@ -632,7 +755,10 @@
         154.75,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CPV-UG03",
@@ -642,7 +768,10 @@
         154.75,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CPV-UG04",
@@ -652,7 +781,10 @@
         154.75,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CHV-UG01",
@@ -662,7 +794,10 @@
         103.5,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CHV-UG02",
@@ -672,7 +807,10 @@
         103.5,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CHV-UG03",
@@ -682,7 +820,10 @@
         103.5,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CHV-UG04",
@@ -692,7 +833,10 @@
         103.5,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "TAQ-UG01",
@@ -702,7 +846,10 @@
         105,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "TAQ-UG02",
@@ -712,7 +859,10 @@
         105,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "TAQ-UG03",
@@ -722,7 +872,10 @@
         105,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "TAQ-UG04",
@@ -732,7 +885,10 @@
         105,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "TAQ-UG05",
@@ -742,7 +898,10 @@
         105,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ROS-UG01",
@@ -752,7 +911,10 @@
         88.5,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ROS-UG02",
@@ -762,7 +924,10 @@
         88.5,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ROS-UG03",
@@ -772,7 +937,10 @@
         88.5,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "ROS-UG04",
@@ -782,7 +950,10 @@
         88.5,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUR-UG01",
@@ -792,7 +963,10 @@
         50.98,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "JUR-UG02",
@@ -802,7 +976,10 @@
         50.98,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "SAG-UG01",
@@ -812,7 +989,10 @@
         18.45,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "SAG-UG02",
@@ -822,7 +1002,10 @@
         18.45,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "SAG-UG03",
@@ -832,7 +1015,10 @@
         18.45,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "SAG-UG04",
@@ -842,7 +1028,10 @@
         18.45,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CN1-UG01",
@@ -852,7 +1041,10 @@
         27.5,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CN1-UG02",
@@ -862,7 +1054,10 @@
         27.5,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CN1-UG03",
@@ -872,7 +1067,10 @@
         27.5,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CN2-UG01",
@@ -882,7 +1080,10 @@
         24,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CN2-UG02",
@@ -892,7 +1093,10 @@
         24,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "CN2-UG03",
@@ -902,7 +1106,10 @@
         24,
         1,
         0,
-        "Conjunto da UHE com taxas ONS disponíveis"
+        "Conjunto da UHE com taxas ONS disponíveis",
+        "",
+        "",
+        ""
       ],
       [
         "SMN-UG01",
@@ -912,7 +1119,10 @@
         175,
         1,
         1,
-        "Participação acionária; inclusão opcional"
+        "Participação acionária; inclusão opcional",
+        "",
+        "",
+        ""
       ],
       [
         "SMN-UG02",
@@ -922,7 +1132,10 @@
         175,
         1,
         1,
-        "Participação acionária; inclusão opcional"
+        "Participação acionária; inclusão opcional",
+        "",
+        "",
+        ""
       ],
       [
         "SMN-UG03",
@@ -932,7 +1145,10 @@
         175,
         1,
         1,
-        "Participação acionária; inclusão opcional"
+        "Participação acionária; inclusão opcional",
+        "",
+        "",
+        ""
       ],
       [
         "SMN-UG04",
@@ -942,7 +1158,10 @@
         175,
         1,
         1,
-        "Participação acionária; inclusão opcional"
+        "Participação acionária; inclusão opcional",
+        "",
+        "",
+        ""
       ],
       [
         "GAR04-UG04",
@@ -952,7 +1171,10 @@
         2.9,
         0,
         0,
-        "Unidade associada em faixa distinta; fora do conjunto UG01–UG03 usado neste cálculo"
+        "Unidade associada em faixa distinta; fora do conjunto UG01–UG03 usado neste cálculo",
+        "",
+        "",
+        ""
       ],
       [
         "PAL-UG01",
@@ -962,7 +1184,10 @@
         16.5,
         0,
         0,
-        "Sem taxas TEIFa/TEIP compatíveis no recorte carregado"
+        "Sem taxas TEIFa/TEIP compatíveis no recorte carregado",
+        "",
+        "",
+        ""
       ],
       [
         "RET-UG01",
@@ -972,7 +1197,10 @@
         8,
         0,
         0,
-        "Sem taxas TEIFa/TEIP compatíveis no recorte carregado"
+        "Sem taxas TEIFa/TEIP compatíveis no recorte carregado",
+        "",
+        "",
+        ""
       ],
       [
         "RET-UG02",
@@ -982,7 +1210,10 @@
         8,
         0,
         0,
-        "Sem taxas TEIFa/TEIP compatíveis no recorte carregado"
+        "Sem taxas TEIFa/TEIP compatíveis no recorte carregado",
+        "",
+        "",
+        ""
       ]
     ],
     "Referencia": [
@@ -1078,6 +1309,11 @@
         "amarelo",
         "#f99d1c",
         "Cor CTG Brasil"
+      ],
+      [
+        "google_oauth_client_id",
+        "",
+        "ID público OAuth (Aplicação da Web) para salvar UGs com autorização Google"
       ]
     ],
     "Instrucoes": [

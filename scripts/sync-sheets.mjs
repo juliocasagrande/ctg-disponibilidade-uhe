@@ -4,7 +4,7 @@ const token=process.env.GOOGLE_ACCESS_TOKEN;
 if(!token)throw Error('GOOGLE_ACCESS_TOKEN ausente. Use a ação oficial google-github-actions/auth no workflow.');
 const cfg=JSON.parse(await fs.readFile('sheets.config.json','utf8'));
 const url=new URL(`https://sheets.googleapis.com/v4/spreadsheets/${encodeURIComponent(cfg.spreadsheetId)}/values:batchGet`);
-for(const range of ['Usinas!A1:M1000','UGs!A1:H5000','Referencia!A1:D6','Parametros!A1:C100'])url.searchParams.append('ranges',range);
+for(const range of ['Usinas!A1:M1000','UGs!A1:K5000','Referencia!A1:D6','Parametros!A1:C100'])url.searchParams.append('ranges',range);
 url.searchParams.set('valueRenderOption','UNFORMATTED_VALUE');
 const response=await fetch(url,{headers:{Authorization:'Bearer '+token},signal:AbortSignal.timeout(30000)});
 if(!response.ok)throw Error('Falha ao ler Google Sheets: HTTP '+response.status);
