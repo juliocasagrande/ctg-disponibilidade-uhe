@@ -42,6 +42,7 @@ jobs:
       - name: Empacotar site estático
         uses: actions/upload-pages-artifact@v3
         with:
+          name: github-pages-${{ github.run_attempt }}
           path: dist
   deploy:
     runs-on: ubuntu-latest
@@ -56,3 +57,5 @@ jobs:
       - name: Publicar
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}
