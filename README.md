@@ -2,17 +2,6 @@
 
 Calculadora estática de TEIF, IP e disponibilidade das UHEs da CTG Brasil, preparada para GitHub Pages. Mantém a identidade visual CTG, as abas técnicas, os cenários editáveis, a persistência no navegador, os backups e as exportações CSV/JSON.
 
-## Publicar no GitHub Pages
-
-1. No repositório, abra **Settings → Pages → Build and deployment**.
-2. Em **Source**, selecione **GitHub Actions**.
-3. Abra **Actions → Publicar GitHub Pages → Run workflow** e execute na branch `main`.
-4. O endereço publicado aparecerá na execução e em **Settings → Pages**.
-
-O workflow também publica novos commits na `main`. O site usa arquivos relativos e funciona no subdiretório do projeto, sem domínio personalizado e sem servidor Node em produção. A pasta publicada é `dist/`. Não há etapa de instalação de dependências.
-
-**A publicação ainda precisa ser habilitada em Settings → Pages.** O conector utilizado para enviar os arquivos não oferece alteração dessa configuração administrativa.
-
 ## Planilha de configuração
 
 [CTG Brasil — Disponibilidade UHE — Configuração](https://docs.google.com/spreadsheets/d/14oKP3hlqoObH7hwhoD_IVdSpAoVArOi0CYW6K33WnYQ/edit)
