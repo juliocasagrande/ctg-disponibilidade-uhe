@@ -1,0 +1,762 @@
+[
+  {
+    "id": "JUP-UG01",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG01",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG02",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG02",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG03",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG03",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG04",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG04",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG05",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG05",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG06",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG06",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG07",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG07",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG08",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG08",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG09",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG09",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG10",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG10",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG11",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG11",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG12",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG12",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG13",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG13",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUP-UG14",
+    "plantId": "JUP",
+    "plant": "Jupiá",
+    "ug": "UG14",
+    "mw": 110.8,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG01",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG01",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG02",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG02",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG03",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG03",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG04",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG04",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG05",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG05",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG06",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG06",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG07",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG07",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG08",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG08",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG09",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG09",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG10",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG10",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG11",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG11",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG12",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG12",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG13",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG13",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG14",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG14",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG15",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG15",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG16",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG16",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG17",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG17",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG18",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG18",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG19",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG19",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ILS-UG20",
+    "plantId": "ILS",
+    "plant": "Ilha Solteira",
+    "ug": "UG20",
+    "mw": 172,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "GAR-UG01",
+    "plantId": "GAR",
+    "plant": "Garibaldi",
+    "ug": "UG01",
+    "mw": 63,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "GAR-UG02",
+    "plantId": "GAR",
+    "plant": "Garibaldi",
+    "ug": "UG02",
+    "mw": 63,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "GAR-UG03",
+    "plantId": "GAR",
+    "plant": "Garibaldi",
+    "ug": "UG03",
+    "mw": 63,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "STO-UG01",
+    "plantId": "STO",
+    "plant": "Salto",
+    "ug": "UG01",
+    "mw": 58,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "STO-UG02",
+    "plantId": "STO",
+    "plant": "Salto",
+    "ug": "UG02",
+    "mw": 58,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CPV-UG01",
+    "plantId": "CPV",
+    "plant": "Capivara",
+    "ug": "UG01",
+    "mw": 154.75,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CPV-UG02",
+    "plantId": "CPV",
+    "plant": "Capivara",
+    "ug": "UG02",
+    "mw": 154.75,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CPV-UG03",
+    "plantId": "CPV",
+    "plant": "Capivara",
+    "ug": "UG03",
+    "mw": 154.75,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CPV-UG04",
+    "plantId": "CPV",
+    "plant": "Capivara",
+    "ug": "UG04",
+    "mw": 154.75,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CHV-UG01",
+    "plantId": "CHV",
+    "plant": "Chavantes",
+    "ug": "UG01",
+    "mw": 103.5,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CHV-UG02",
+    "plantId": "CHV",
+    "plant": "Chavantes",
+    "ug": "UG02",
+    "mw": 103.5,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CHV-UG03",
+    "plantId": "CHV",
+    "plant": "Chavantes",
+    "ug": "UG03",
+    "mw": 103.5,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CHV-UG04",
+    "plantId": "CHV",
+    "plant": "Chavantes",
+    "ug": "UG04",
+    "mw": 103.5,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "TAQ-UG01",
+    "plantId": "TAQ",
+    "plant": "Taquaruçu",
+    "ug": "UG01",
+    "mw": 105,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "TAQ-UG02",
+    "plantId": "TAQ",
+    "plant": "Taquaruçu",
+    "ug": "UG02",
+    "mw": 105,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "TAQ-UG03",
+    "plantId": "TAQ",
+    "plant": "Taquaruçu",
+    "ug": "UG03",
+    "mw": 105,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "TAQ-UG04",
+    "plantId": "TAQ",
+    "plant": "Taquaruçu",
+    "ug": "UG04",
+    "mw": 105,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "TAQ-UG05",
+    "plantId": "TAQ",
+    "plant": "Taquaruçu",
+    "ug": "UG05",
+    "mw": 105,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ROS-UG01",
+    "plantId": "ROS",
+    "plant": "Rosana",
+    "ug": "UG01",
+    "mw": 88.5,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ROS-UG02",
+    "plantId": "ROS",
+    "plant": "Rosana",
+    "ug": "UG02",
+    "mw": 88.5,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ROS-UG03",
+    "plantId": "ROS",
+    "plant": "Rosana",
+    "ug": "UG03",
+    "mw": 88.5,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "ROS-UG04",
+    "plantId": "ROS",
+    "plant": "Rosana",
+    "ug": "UG04",
+    "mw": 88.5,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUR-UG01",
+    "plantId": "JUR",
+    "plant": "Jurumirim",
+    "ug": "UG01",
+    "mw": 50.98,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "JUR-UG02",
+    "plantId": "JUR",
+    "plant": "Jurumirim",
+    "ug": "UG02",
+    "mw": 50.98,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "SAG-UG01",
+    "plantId": "SAG",
+    "plant": "Salto Grande",
+    "ug": "UG01",
+    "mw": 18.45,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "SAG-UG02",
+    "plantId": "SAG",
+    "plant": "Salto Grande",
+    "ug": "UG02",
+    "mw": 18.45,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "SAG-UG03",
+    "plantId": "SAG",
+    "plant": "Salto Grande",
+    "ug": "UG03",
+    "mw": 18.45,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "SAG-UG04",
+    "plantId": "SAG",
+    "plant": "Salto Grande",
+    "ug": "UG04",
+    "mw": 18.45,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CN1-UG01",
+    "plantId": "CN1",
+    "plant": "Canoas I",
+    "ug": "UG01",
+    "mw": 27.5,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CN1-UG02",
+    "plantId": "CN1",
+    "plant": "Canoas I",
+    "ug": "UG02",
+    "mw": 27.5,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CN1-UG03",
+    "plantId": "CN1",
+    "plant": "Canoas I",
+    "ug": "UG03",
+    "mw": 27.5,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CN2-UG01",
+    "plantId": "CN2",
+    "plant": "Canoas II",
+    "ug": "UG01",
+    "mw": 24,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CN2-UG02",
+    "plantId": "CN2",
+    "plant": "Canoas II",
+    "ug": "UG02",
+    "mw": 24,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "CN2-UG03",
+    "plantId": "CN2",
+    "plant": "Canoas II",
+    "ug": "UG03",
+    "mw": 24,
+    "eligible": true,
+    "optional": false,
+    "reason": "Conjunto da UHE com taxas ONS disponíveis"
+  },
+  {
+    "id": "SMN-UG01",
+    "plantId": "SMN",
+    "plant": "São Manoel",
+    "ug": "UG01",
+    "mw": 175,
+    "eligible": true,
+    "optional": true,
+    "reason": "Participação acionária; inclusão opcional"
+  },
+  {
+    "id": "SMN-UG02",
+    "plantId": "SMN",
+    "plant": "São Manoel",
+    "ug": "UG02",
+    "mw": 175,
+    "eligible": true,
+    "optional": true,
+    "reason": "Participação acionária; inclusão opcional"
+  },
+  {
+    "id": "SMN-UG03",
+    "plantId": "SMN",
+    "plant": "São Manoel",
+    "ug": "UG03",
+    "mw": 175,
+    "eligible": true,
+    "optional": true,
+    "reason": "Participação acionária; inclusão opcional"
+  },
+  {
+    "id": "SMN-UG04",
+    "plantId": "SMN",
+    "plant": "São Manoel",
+    "ug": "UG04",
+    "mw": 175,
+    "eligible": true,
+    "optional": true,
+    "reason": "Participação acionária; inclusão opcional"
+  },
+  {
+    "id": "GAR04-UG04",
+    "plantId": "GAR04",
+    "plant": "Garibaldi · PCH associada",
+    "ug": "UG04",
+    "mw": 2.9,
+    "eligible": false,
+    "optional": false,
+    "reason": "Unidade associada em faixa distinta; fora do conjunto UG01–UG03 usado neste cálculo"
+  },
+  {
+    "id": "PAL-UG01",
+    "plantId": "PAL",
+    "plant": "PCH Palmeiras",
+    "ug": "UG01",
+    "mw": 16.5,
+    "eligible": false,
+    "optional": false,
+    "reason": "Sem taxas TEIFa/TEIP compatíveis no recorte carregado"
+  },
+  {
+    "id": "RET-UG01",
+    "plantId": "RET",
+    "plant": "PCH Retiro",
+    "ug": "UG01",
+    "mw": 8,
+    "eligible": false,
+    "optional": false,
+    "reason": "Sem taxas TEIFa/TEIP compatíveis no recorte carregado"
+  },
+  {
+    "id": "RET-UG02",
+    "plantId": "RET",
+    "plant": "PCH Retiro",
+    "ug": "UG02",
+    "mw": 8,
+    "eligible": false,
+    "optional": false,
+    "reason": "Sem taxas TEIFa/TEIP compatíveis no recorte carregado"
+  }
+]

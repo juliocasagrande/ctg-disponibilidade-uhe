@@ -1,0 +1,7 @@
+const assert=require('node:assert/strict'),E=require('./dist/core.js'),fs=require('node:fs');
+assert.equal(E.band(29),1);assert.equal(E.band(29.001),2);assert.equal(E.band(59),2);assert.equal(E.band(199),3);assert.equal(E.band(499),4);assert.equal(E.band(1300),5);assert.throws(()=>E.band(0));assert.throws(()=>E.band(1301));
+assert.equal(E.availability(0,0),100);assert.equal(E.availability(100,0),0);assert.throws(()=>E.availability('',2));assert.throws(()=>E.availability(-1,2));assert.throws(()=>E.availability(1,101));assert.ok(Math.abs(E.availability(1.591,3.707)-94.76097837)<1e-8);
+let a=E.aggregate([{n:20,teif:2.023,ip:3.047},{n:6,teif:2.389,ip:.239}]);assert.ok(Math.abs(a.teif-2.1074615384615383)<1e-10);assert.equal(a.ip,2.399);assert.equal(E.aggregate([]),null);
+let h=JSON.parse(fs.readFileSync('dist/historical.json')),n=[56,117,239,94,26];for(let b=1;b<=5;b++){let a=E.aggregate(h.filter(r=>r.band===b));assert.equal(a.weight,n[b-1]);if(b>1){assert.equal(a.teif.toFixed(3),E.refs[b-1][1].toFixed(3));assert.equal(a.ip.toFixed(3),E.refs[b-1][2].toFixed(3))}}
+const ons=JSON.parse(fs.readFileSync('dist/ons.json'));assert.equal(ons.length,162);for(const r of ons){assert.ok(Number.isFinite(E.availability(r.TEIFa,r.TEIP)));assert.equal(r.month,'2026-09-01')}
+console.log('OK: limites de faixa, validação, ponderações, reprodução histórica (inclui divergência da faixa 1), 162 registros ONS.');
