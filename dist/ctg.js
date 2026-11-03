@@ -4,7 +4,7 @@ const key='uhe-ctg-2027-v1',cfg=window.UHE_CONFIG||{},Y=cfg.year||2027;
 const f=(v,d=6)=>v===null||!Number.isFinite(Number(v))?'—':fmt(Number(v),d);
 const initial=()=>CTGModel.initial(plants,units,cfg);
 function save(){try{localStorage.setItem(key,JSON.stringify(state))}catch(e){$('ctgMessage').textContent='Salvamento local indisponível. Exporte o cenário.'}}
-function summary(){return CTGModel.summarize(state,plants,units,Projection.refs())}
+function summary(){return CTGModel.summarize(state,plants,units,Engine.officialRefs)}
 function dirty(){return SheetBridge.changes(baseline,state.units)}
 function pending(){const factors=Projection.parameters();return state.study!==cfg.study||state.notes!==cfg.notes||state.participation!==!!cfg.participation||state.rows.some(r=>r.include!==(plants.find(p=>p.id===r.id).includeDefault!==false))||factors.fator_teif_projecao!==cfg.forecastTeif||factors.fator_ip_projecao!==cfg.forecastIp}
 function localDirty(){return dirty().length>0||pending()}
@@ -19,7 +19,7 @@ function chart(result){
 }
 function update(){
  const result=summary();const actualState={...state,units:state.units.map(u=>{const unit=units.find(x=>x.id===u.id),plant=plants.find(p=>p.id===unit.plantId),obs=observations.find(o=>o.ceg===plant.ceg);return {...u,teif:obs?.TEIFa??'',ip:obs?.TEIP??''}})};result.actual=CTGModel.summarize(actualState,plants,units,Projection.refs());for(const u of result.actual.units)u.rateOrigin='Herdada da usina ONS';
- const selected=result.actual.units.filter(u=>u.selected&&u.refDisp!==null),refPower=selected.reduce((s,u)=>s+u.mw,0),benchmark=refPower?selected.reduce((s,u)=>s+u.mw*u.refDisp,0)/refPower:null;$('ctgPosition').textContent=benchmark===null?'Sem referência para o conjunto selecionado.':'Base atual ONS: '+f(result.actual.availability,3)+'% · Referência projetada: '+f(benchmark,3)+'% · Δ CTG: '+f(result.actual.availability===null?null:result.actual.availability-benchmark,3)+' p.p. · '+selected.filter(u=>u.disp<u.refDisp).length+' de '+selected.length+' UGs abaixo da referência.';
+ const selected=result.actual.units.filter(u=>u.selected&&u.refDisp!==null),refPlants=result.actual.plants.filter(p=>p.selected&&p.n&&p.refDisp!==null),refPower=refPlants.reduce((s,p)=>s+p.power,0),benchmark=refPower?refPlants.reduce((s,p)=>s+p.power*p.refDisp,0)/refPower:null;$('ctgPosition').textContent=benchmark===null?'Sem referência para o conjunto selecionado.':'Disponibilidade estimada com taxas ONS: '+f(result.actual.availability,3)+'% · Benchmark Portaria 42/2022: '+f(benchmark,3)+'% · Δ: '+f(result.actual.availability===null?null:result.actual.availability-benchmark,3)+' p.p. · '+selected.filter(u=>u.disp<u.refDisp).length+' de '+selected.length+' UGs abaixo da referência de faixa. A comparação não substitui as taxas individuais aplicáveis à garantia física.';
  $('ctgCount').textContent=result.plantCount;$('ctgUgs').textContent=result.unitCount;$('ctgDisp').textContent=f(result.availability,3)+(result.availability===null?'':'%');$('ctgMw').textContent=f(result.equivalent,3)+(result.equivalent===null?'':' MW');
  chart(result);
  $('ctgMessage').textContent=result.invalid?result.invalid+' UG(s) com dados inválidos.':result.plantCount+' UHEs · '+result.unitCount+' UGs · '+f(result.power,3)+' MW';

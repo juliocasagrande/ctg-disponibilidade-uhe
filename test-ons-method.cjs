@@ -1,0 +1,17 @@
+const assert=require('node:assert/strict'),M=require('./dist/ons-method.js');
+const header='ug;mes;potencia_mw;hp;hdp;hedp;hdf;hedf;hs;hrd;hdce';
+const csv=header+'\nUG1;2026-09;100;720;36;0;12;0;672;0;0\nUG2;2026-09;200;720;0;0;0;0;720;0;0';
+const a=M.calculate(M.readCSV(csv));
+assert.ok(Math.abs(a.teip-(36*100/(720*300)*100))<1e-12);
+assert.ok(Math.abs(a.teifa-(12*100/((12+672)*100+720*200)*100))<1e-12);
+assert.ok(Math.abs(a.availability-100*(1-a.teifa/100)*(1-a.teip/100))<1e-12);
+assert.equal(a.unbalanced,0);assert.equal(a.fullWindow,false);assert.equal(a.units,2);assert.equal(a.rows,2);assert.equal(a.months,1);
+assert.throws(()=>M.readCSV(header+'\nUG1;2026-09;100;720;36'),/número de colunas/);
+assert.throws(()=>M.calculate(M.readCSV(csv+'\nUG1;2026-09;100;720;0;0;0;0;720;0;0')),/duplicado/);
+assert.throws(()=>M.calculate(M.readCSV(header+'\nUG1;2026-09;100;720;800;0;0;0;0;0;0')),/excedem/);
+assert.equal(M.calculate(M.readCSV(header+'\nUG1;2026-09;100;720;0;0;12;0;700;0;0')).unbalanced,1);
+const periods=[];for(let y=2021;y<=2025;y++)for(let mo=1;mo<=12;mo++)periods.push('UG1;'+y+'-'+String(mo).padStart(2,'0')+';100;720;0;0;0;0;720;0;0');
+assert.equal(M.calculate(M.readCSV(header+'\n'+periods.join('\n'))).fullWindow,true);
+periods[30]=periods[30].replace('2023-07','2028-07');
+assert.equal(M.calculate(M.readCSV(header+'\n'+periods.join('\n'))).fullWindow,false);
+console.log('OK: fórmula ONS por P×horas, múltiplas UGs, 60 meses consecutivos, fechamento e duplicidades.');
