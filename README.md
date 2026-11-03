@@ -1,5 +1,21 @@
-# Disponibilidade UHE — CTG Brasil
+# Disponibilidade de UHEs — CTG Brasil
 
-Aplicação web para calcular e simular índices de disponibilidade das usinas hidrelétricas da CTG Brasil, com base nas taxas de indisponibilidade forçada e programada e nas potências de suas unidades geradoras.
+Ferramenta estática para análise de indisponibilidade de UHEs, separando:
 
-O projeto reúne cenários editáveis, comparação por faixas de potência, inventário de UGs, referências metodológicas e exportação de resultados. Os dados configuráveis são organizados em Google Sheets, com importação manual ou leitura na publicação pelo GitHub Actions. A interface utiliza a identidade visual da CTG Brasil e está preparada para hospedagem no GitHub Pages.
+- **TEIFa/TEIP apuradas pelo ONS**, recorte por usina de setembro de 2026;
+- **TEIF/IP de referência**, publicados na Portaria GM/MME 42/2022;
+- **cenário condicional de 2028**, não homologado e distinto dos parâmetros oficiais.
+
+O benchmark CTG por faixa não é o valor necessariamente aplicável à garantia física de cada usina. Dados por UG herdados das taxas da usina são simulações, não medições individuais.
+
+Metodologia, equações de apuração em horas, origem dos dados, critérios de ponderação e limitações: [docs/ONS-METODOLOGIA.md](docs/ONS-METODOLOGIA.md).
+
+Fontes: [ONS — taxas](https://dados.ons.org.br/dataset/taxa_teif_teip) e [ONS — parcelas operacionais](https://dados.ons.org.br/dataset/taxa_teif_teip_parametro).
+
+```bash
+npm test
+npm run build
+npm run preview
+```
+
+A implantação via GitHub Pages exige aprovação da suíte de testes.
