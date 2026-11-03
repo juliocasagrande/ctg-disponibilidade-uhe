@@ -1,4 +1,5 @@
 const assert=require('node:assert/strict'),E=require('./dist/core.js'),fs=require('node:fs');
+assert.equal(E.officialBand(29),1);assert.equal(E.officialBand(29.001),2);assert.ok(Object.isFrozen(E.officialRefs)&&Object.isFrozen(E.officialRefs[0]));assert.equal(E.officialRefs[0][1],1.684);
 assert.equal(E.band(29),1);assert.equal(E.band(29.001),2);assert.equal(E.band(59),2);assert.equal(E.band(199),3);assert.equal(E.band(499),4);assert.equal(E.band(1300),5);assert.throws(()=>E.band(0));assert.throws(()=>E.band(1301));
 assert.equal(E.availability(0,0),100);assert.equal(E.availability(100,0),0);assert.throws(()=>E.availability('',2));assert.throws(()=>E.availability(-1,2));assert.throws(()=>E.availability(1,101));assert.ok(Math.abs(E.availability(1.591,3.707)-94.76097837)<1e-8);
 let a=E.aggregate([{n:20,teif:2.023,ip:3.047},{n:6,teif:2.389,ip:.239}]);assert.ok(Math.abs(a.teif-2.1074615384615383)<1e-10);assert.equal(a.ip,2.399);assert.equal(E.aggregate([]),null);
